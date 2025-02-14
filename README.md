@@ -46,4 +46,4 @@ A cada maçã coletada, a cobra cresce mais um pouco. Caso a cobra se enrole e b
 * ***JavaScript***: Manipulação do Canvas, captura dos eventos do teclado e funcionamento de todo algoritmo do jogo.
 
 ---
-Made by &#128153; [SandroRDS](https://www.linkedin.com/in/sandro-rosa-de-souza-02a5bb241/) &#128153; | &#x1F47E; Mais Projetos: https://github.com/SandroRDS?tab=repositories
+
