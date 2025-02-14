@@ -13,7 +13,6 @@
 </p>
 
 > &#x1F517; Link do Projeto:  
-&#x27A1; https://sandrords.github.io/jogo-da-cobrinha/
 
 > Tipo de Projeto: *Pessoal* &#x1F4DA;
 
